@@ -83,6 +83,11 @@
   height: 568px;
   background-color: #2f80ed;
 }
+
+.header__link {
+  text-decoration: none;
+}
+
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 /* .header__square-pic {
   height: 568px;
@@ -178,7 +183,7 @@
 .table__cell {
   /* background-color: coral; */
   width: 250px;
-  padding-top: 60px;
+  margin-top: 60px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -202,4 +207,44 @@
   font-size: 18px;
   font-weight: normal;
   line-height: 1.2;
+}
+
+.feinman {
+  position: relative;
+  height: 790px;
+  background-color: #f2f2f2;
+  background-image: url(../images/feynman.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 867px 637px;
+}
+
+.feinman__title {
+  width: 648px;
+  margin: 0 auto 70px;
+  padding-top: 100px;
+  text-align: center;
+  font-size: 120px;
+  font-weight: bold;
+  line-height: 1.15;
+}
+
+.feinman__subtitle {
+  /* width: 648px; */
+  margin: 0 auto;
+  text-align: center;
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 51px;
+}
+
+.feinman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  text-decoration: none;
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 51px;
+  color: black;
 }
