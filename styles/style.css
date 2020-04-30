@@ -135,12 +135,12 @@
   font-weight: bold;
 } */
 
-.digits {
+/* .digits {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 100px 0;
-}
+} */
 
 /* .section-title {
   margin: 0;
@@ -169,7 +169,7 @@
   color: white;
 } */
 
-.table {
+/* .table {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -181,13 +181,12 @@
 }
 
 .table__cell {
-  /* background-color: coral; */
   width: 250px;
   margin-top: 60px;
-}
+} */
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
+/* .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
@@ -214,9 +213,9 @@
 
 .table__text_theme_dark {
   color: white;
-}
+} */
 
-.feinman {
+/* .feinman {
   position: relative;
   height: 790px;
   background-color: #f2f2f2;
@@ -237,7 +236,6 @@
 }
 
 .feinman__subtitle {
-  /* width: 648px; */
   margin: 0 auto;
   text-align: center;
   font-size: 36px;
@@ -254,7 +252,7 @@
   font-weight: normal;
   line-height: 51px;
   color: black;
-}
+} */
 
 .kaufman {
   position: relative;
