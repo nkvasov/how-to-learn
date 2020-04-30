@@ -2,4 +2,10 @@
   margin: 0;
   padding: 0;
   display: flex;
+
+  /* это тоже вариант */
+
+  /* align-items: flex-start; */
+  /* height: 608px; */
+  /* overflow: hidden; */
 }
