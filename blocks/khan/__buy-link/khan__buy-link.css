@@ -8,3 +8,8 @@
   line-height: 42px;
   font-weight: normal;
 }
+
+.khan__buy-link:hover {
+  opacity: 70%;
+  transition: opacity 0.1s ease;
+}

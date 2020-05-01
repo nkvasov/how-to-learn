@@ -2,10 +2,11 @@
   margin: 0;
   padding: 0;
   display: flex;
+  align-items: flex-start;
 
-  /* это тоже вариант */
 
-  /* align-items: flex-start; */
+  /* это тоже вариант, чтоб зарезать картинку */
+
   /* height: 608px; */
   /* overflow: hidden; */
 }
